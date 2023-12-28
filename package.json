@@ -1,0 +1,27 @@
+{
+  "name": "vuejs-custom-plugins",
+  "version": "1.0.0",
+  "description": "A unique package that provides custom plugins for Vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/vuejs-custom-plugins.git"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "plugin",
+    "custom"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/vuejs-custom-plugins/issues"
+  },
+  "homepage": "https://github.com/yourusername/vuejs-custom-plugins#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
